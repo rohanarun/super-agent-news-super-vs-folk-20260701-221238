@@ -1,0 +1,28 @@
+{
+  "citations": [
+    "[adlibrary.com](https://adlibrary.com/posts/what-are-ai-marketing-agents-guide-for-performance)",
+    "[contentmarketing.ai](https://www.contentmarketing.ai/blog/industry/ai-assistants-vs-ai-agents-what-marketers-need-to-know-as-agents-move-into-the-spotlight/)",
+    "[blog.google](https://blog.google/technology/ai/introducing-computer-use-in-gemini-3-5-flash/)",
+    "[ndtvprofit.com](https://www.ndtvprofit.com/technology/six-in-10-indians-want-personal-ai-agents-highest-in-asia-pacific-report-finds)",
+    "[securityaffairs.com](https://securityaffairs.com/)"
+  ],
+  "design_plan": "rng=42; AIDA_passed=True; hero_max_width=1120; bento_dense=True; labels_swept=True; button_contrast_checked=True",
+  "generated_at": "2026-07-01T22:12:45.181064+00:00",
+  "headline": "Super vs Folk \u2014 personal AI agents for real computer work",
+  "site_brief": {
+    "audience": "people comparing Super with Folk",
+    "competitor": "Folk",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs Folk. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "Folk AI agent",
+      "Folk AI assistant",
+      "Folk automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-folk",
+    "title": "Super vs Folk"
+  },
+  "summary": "Folk is part of a growing market of AI assistants and lightweight automations. Super is built for people who want a personal AI agent that actually operates a computer \u2014 and reuses a computer-use cache so repeated workflows get faster and cheaper over time. This page compares where Folk fits, where it shines, and why Super is the sharper choice for durable computer-use workflows."
+}
